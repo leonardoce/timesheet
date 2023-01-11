@@ -1,0 +1,12 @@
+[clockwork]
+token=<clockwork for Jira token here>
+endpoint=https://api.clockwork.report/v1/worklogs
+
+[jira]
+account_id=<jira account id here>
+account_name=<jira account name here>
+token=<jira token here>
+endpoint=https://<my-jira-url>/rest/api/2/issue/{0}
+
+[db]
+name=timesheet.db
